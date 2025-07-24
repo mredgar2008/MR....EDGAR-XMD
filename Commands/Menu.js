@@ -1,22 +1,18 @@
 ```javascript
 module.exports = {
-  name: "menu",
-  description: "Onesha orodha ya amri",
-  category: "general",
-  async run({ sock, msg }) {
-    await sock.sendMessage(msg.from, {
-      text: `🤖 *MR. EDGAR-XMD BOT MENU*
+  name: 'menu',
+  description: 'Display available commands',
+  execute: async (client, message, args) => {
+    const menu = `
+🔹 *BOT MENU* 🔹
 
-📌 Commands:
-!menu
-!owner
-!ping
-!sticker
-!tts
-!ai
-!groupinfo
-!help`,
-    });
-  },
+📌 !ping - Check bot speed  
+📌 !help - Get support info  
+📌 !about - Info about bot  
+
+_© MR....EDGAR-XMD_
+    `;
+    await message.reply(menu);
+  }
 };
-``
+```
