@@ -1,0 +1,12 @@
+```javascript
+module.exports = {
+  name: 'ping',
+  description: 'Check bot speed',
+  execute: async (client, message, args) => {
+    const start = Date.now();
+    const msg = await message.reply('⏳ Pinging...');
+    const end = Date.now();
+    await msg.edit(`🏓 Pong! Response time: *${end - start}ms*`);
+  }
+};
+``
