@@ -1,10 +1,6 @@
 🤖 MR..EDGAR-XMD Bot
 This is a WhatsApp bot built using the Baileys library for group management, including featuresging all members, muting/unmuting, and many more. It's designed to h# 🤖 MR..EDGAR This is a WhatsApp bot built Botusing the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups. 
 ![TypingSVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=40&duration=3000&pause=700&color=FF0000&center=true&vCenter=true&width=1000&height=90&lines=꧁༒☾MR...EDGAR-XMD☽༒꧂:+ＴＨＥ+SIMPLE+ＢＯＴ;🌹+VERSION－2025,+STABLE+＆+COOL+🌹;🌹+©️+ＴＯ+ＹＯＵ+ＢＹ+DEV+꧁༒☾MR...EDGAR-XMD☽༒꧂+🌹)
----
----
-
-<p align="center">
 IMG-20250710-WA0013 Welcome to the MR......-EDGAR-XMD
 <p align="center">
 🚀 Steps to Deploy
