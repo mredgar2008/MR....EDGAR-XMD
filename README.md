@@ -1,57 +1,17 @@
 🤖 MR..EDGAR-XMD Bot
-This is a WhatsApp bot built using the Baileys library for group management, including featuresging all members, muting/unmuting, and many more. It's designed to h# 🤖 MR..EDGAR This is a WhatsApp bot built Botusing the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups. 
-![TypingSVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=40&duration=3000&pause=700&color=FF0000&center=true&vCenter=true&width=1000&height=90&lines=꧁༒☾MR...EDGAR-XMD☽༒꧂:+ＴＨＥ+SIMPLE+ＢＯＴ;🌹+VERSION－2025,+STABLE+＆+COOL+🌹;🌹+©️+ＴＯ+ＹＯＵ+ＢＹ+DEV+꧁༒☾MR...EDGAR-XMD☽༒꧂+🌹)
-IMG-20250710-WA0013 Welcome to the MR......-EDGAR-XMD
-<p align="center">
+This is a WhatsApp bot built using the Baileys library for group management, including featuresging all members, muting/unmuting, and many more. It's designed to h# 🤖 MR..EDGAR This is a WhatsApp bot built Botusing the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups. IMG-20250710-WA0013 Welcome to the MR......-EDGAR-XMD
+
 🚀 Steps to Deploy
 Step 1: Fork the Repository
 Click the button below to fork the Knight Bot repository to your GitHub account:
 
 Fork the repository
 Step 2: Get Pair Code
-DEPLOY SIMPLY MR....EDGAR-XMD
+Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
 
-### Get Pairing Code SESSION 
-##  Quick Access
-
-<table align="center" cellpadding="10" style="border-radius:15px;background:#1a1a1a;border:none">
-  <tr>
-    <td align="center" style="border:none">
-      <a href="https://skiddbmx-pair-site.onrender.com/">
-        <img src="https://img.shields.io/badge/Pair_Session-white?style=for-the-badge&logo=link&logoColor=black" width="200">
-      </a>
-    </td>
-    <td align="center" style="border:none">
-      <a href="">
-        <img src="https://img.shields.io/badge/Video_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="200">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border:none">
-      <a href="https://MR..EDGAR-XMDwnloder.vercel.app/">
-        <img src="https://img.shields.io/badge/Visit_Site-181717?style=for-the-badge&logo=link&logoColor=white" width="200">
-      </a>
-    </td>
-    <td align="center" style="border:none">
-      <a href="https://github.com/fel255/IT-TECH/archive/refs/heads/main.zip">
-        <img src="https://img.shields.io/badge/Download_ZIP-0078D4?style=for-the-badge&logo=windows&logoColor=white" width="200">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border:none">
-      <a href="https://MR...EDGAR-XMvercel.app/">
-        <img src="https://img.shields.io/badge/Contact_Us-0088cc?style=for-the-badge&logo=telegram&logoColor=white" width="200">
-      </a>
-    </td>
-    <td align="center" style="border:none">
-      <a href="https://skiddyprojects.vercel.app//">
-        <img src="https://img.shields.io/badgeMR...EDGAR-XMD_APIs-000000style=for-the-badge&logo=vercel&logoColor=white" width="200">
-      </a>
-    </td>
-  </tr>
-</table>
+Deploy on Replit
+Generate Pair Code
+After getting creds.json file, upload it to session folder
 Step 3: Deploy Now
 For further customization and setup guidance, click the button below:
 
